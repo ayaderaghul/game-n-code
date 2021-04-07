@@ -9,3 +9,5 @@ Nash equilibrium is an intuitive concept. Consider my way of explaining it here 
 This chapter has three parts: to explain the theory, to explain it in code (here comes my solution), and your own solution. You can see that this lesson needs you to be/feel completed. I would pay my part of the bargain. I wish you to bring yours and yourself to the table.
 
 Let's start with example 0: the Prisoner's Dilemma game. Each chapter would revolve around a typical example so that you can absorb the theory easily by hearing the story it tells.
+
+...tba...
