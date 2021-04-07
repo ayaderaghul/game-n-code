@@ -5,3 +5,5 @@
 *The best way to convey the message is probably through an example. The details are chosen carefully to transmit a substantial amount of knowlege.*
 
 Nash equilibrium is an intuitive concept. Consider my way of explaining it here and see how well it goes with your intuition. This is the semantic way of teaching fundamental concepts in game theory and in evolved (programming) languages.
+
+This chapter has three parts: to explain the theory, to explain it in code, and your own solution. This lesson needs you to be completed, I pay my part of the bargain. I wish you to bring you to the table.
