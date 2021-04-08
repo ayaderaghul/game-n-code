@@ -93,5 +93,7 @@ We put a star next to value 4, since 4 > 2.
 
 We see that point (1, 1), if represented graphically, would be the Nash equilibrium of this game since it is the crossing point of two same but different direction forces.
 
+-> If we extend the game and treat the strategies not as concrete but a continuum and give each strategy a probability (propensity) q and (1 - q), there would be a fixed point too. And it is called the mixed strategy Nash equilibirum. To extend it further, as long as the setup of the game relies on optimisation of concave(convex?) utility, a continuous game always has at least a mixed Nash equilibrium.
+
 
 ...tba...
