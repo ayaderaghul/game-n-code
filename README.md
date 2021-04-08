@@ -80,4 +80,18 @@ We put a star next to value 4, since 4 > 2.
 -------------------------
   s2    |     | *1, t2
 ```
+
+- At this point, we assume strong rationality: each knows other's perspective which means that p1 has the capability to deduce p2's reasoning therefore knows what p2 would do. Technically, we merge both perspective and check where are the stars:
+```
+
+ p1\p2  |  s1    |    s2
+----------------------------
+  s1    | 2, 2   |   0, 4*
+----------------------------
+  s2    | *4, 0  |  *1, 1*
+```
+
+We see that point (1, 1), if represented graphically, would be the Nash equilibrium of this game since it is the crossing point of two same but different direction forces.
+
+
 ...tba...
