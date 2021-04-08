@@ -12,11 +12,15 @@ Let's start with example 0: the Prisoner's Dilemma game. The reason each chapter
 
 The game has two players p1, p2 sharing two strategies s1, s2. If the outcome is (s1, s1), the payoff is (2, 2). Similarly, the outcome (s2, s2) mapped to the payoff (-1, -1). When the outcome is (s1, s2), the equivalent payoff vector is (0, 4). With outcome (s2, s1), the payoff is (4, 0). Here is the tabular representation of the game:
 
+```
+
 p1\p2    |  s1   |  s2
 -------------------------
 s1       | 2, 2  | 0, 4
 -------------------------
 s2       | 4, 0  | 1, 1
+```
+
 
 
 
