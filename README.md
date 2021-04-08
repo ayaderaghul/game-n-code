@@ -95,5 +95,6 @@ We see that point (1, 1), if represented graphically, would be the Nash equilibr
 
 -> If we extend the game and treat the strategies not as concrete but a continuum and give each strategy a probability (propensity) q and (1 - q), there would be a fixed point too. And it is called the mixed strategy Nash equilibirum. To extend it further, as long as the setup of the game relies on optimisation of concave(convex?) utility, a continuous game always has at least a mixed Nash equilibrium.
 
++ Exercise 1: Code a simple program that inputs the PD's payoff matrix and printout the starred payoff matrix (i.e. the matrix with marked solution).
 
 ...tba...
