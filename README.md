@@ -43,4 +43,41 @@ Since 4 > 2, this comparison together with the assumption that two players have 
   
 ```
 
+- Similarly, if p1 chooses s2, p2 can choose between two available outcomes:
+```
+
+ p1\p2  |  s1   |  s2
+-------------------------
+  
+-------------------------
+  s2    | y1, 0  | y2, 1*
+```
+
+Since 1 > 0, we put a star next to the payoff value 1, to signify that p2 chooses s2 in case p1 chooses s2.
+
+- We do the same for the reasoning of p1:
+- In case p2 chooses s1, p1 has two choices that p2 knows of consequences:
+
+```
+
+ p1\p2  |   s1    |  
+-------------------------
+  s1    |  2, z1  | 
+-------------------------
+  s2    | *4, z2  | 
+```
+
+We put a star next to value 4, since 4 > 2.
+
+- In case p2 choose s2, p1 has two choices:
+
+
+```
+
+ p1\p2  |     |   s2
+-------------------------
+  s1    |     |  0, t1
+-------------------------
+  s2    |     | *1, t2
+```
 ...tba...
